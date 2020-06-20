@@ -1,0 +1,18 @@
+These scripts were designed for use on Ubuntu 20.04, I also have three diffrent users, I replaced their names with Red Green and Blue. so adjust as needed.
+This also is a post intsall script and installs various programs that I like to have on my machine
+the software is:
+gphoto2 (obviously)
+geeqie (photo viewer)
+entangle (camera interface system)
+bitwarden (password manager)
+Angry IP Scanner (easy gui based network scanner)
+Team Viewer (Remote Desktop Client)
+Insync (to sync to google or one drive)
+
+Install Steps: 
+1.) Extract gPHOTO2-Tethering Scripts to /home folder
+2.) CD GPHOTO2-Tethering-Scripts
+3.)sudo chmod +x installer
+4.) sudo ./installer
+5.) Configure the apps on each user. 
+6.) the copy installer is if you make any adjustments to the tethering scripts you can run the copy installer script and not have to run all the downlaods 
